@@ -1,0 +1,6 @@
+C:\Users\GD6\source\repos\EchoServer\EchoServer\bin\Debug\EchoServer.exe.config
+C:\Users\GD6\source\repos\EchoServer\EchoServer\bin\Debug\EchoServer.exe
+C:\Users\GD6\source\repos\EchoServer\EchoServer\bin\Debug\EchoServer.pdb
+C:\Users\GD6\source\repos\EchoServer\EchoServer\obj\Debug\EchoServer.csproj.CoreCompileInputs.cache
+C:\Users\GD6\source\repos\EchoServer\EchoServer\obj\Debug\EchoServer.exe
+C:\Users\GD6\source\repos\EchoServer\EchoServer\obj\Debug\EchoServer.pdb
