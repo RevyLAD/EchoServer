@@ -14,6 +14,7 @@ namespace EchoServer
 
     class Program
     {
+        //테스트추가 - 함성민
         static bool aCheck = true;
         static void Main(string[] args)
         {
