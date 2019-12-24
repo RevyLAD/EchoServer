@@ -1,6 +1,8 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\EchoServer"
   ],
+  "SelectedNode": "\\EchoServer\\Program.cs",
   "PreviewInSolutionExplorer": false
 }
