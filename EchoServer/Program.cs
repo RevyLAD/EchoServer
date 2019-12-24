@@ -35,7 +35,7 @@ namespace EchoServer
                 while (true)
                 {
                     
-                    //클라이언트가 요청될때마다 새로운 쓰레드를 생성하여 따로 작업을 함
+                    //클라이언트가 요청될때마다 새로운 쓰레드를 생성하여 따로 작업을 함dhgdfgfdg
                     client = server.AcceptTcpClient();
                     new Thread(new ThreadStart(() => processData(client))).Start();
                     
